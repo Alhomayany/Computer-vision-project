@@ -6,3 +6,11 @@ datasets/
 .vscode/
 .conda/
 runs/
+yolo.ipynb
+ryolo.ipynb
+/results.json
+rcnn_res50.ipynb
+rcnn_mobilenet.ipynb
+efficientNetTrain.ipynb
+coco_formatted_predictions.json
+my_notes.md
