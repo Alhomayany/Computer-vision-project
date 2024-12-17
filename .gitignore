@@ -1,0 +1,8 @@
+*.pt
+__pycache__/
+pretrained_models/
+*pipeline*/
+datasets/
+.vscode/
+.conda/
+runs/

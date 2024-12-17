@@ -1,0 +1,44 @@
+{
+    "mobilenet_v3_large_fpn": {
+        "model_name": "mobilenet_v3_large_fpn",
+        "all_mb": 183.0,
+        "nparams": "19,386,354",
+        "model_size_mb": 74.0,
+        "inference_cost_mb": 109.1
+    },
+    "resnet50_v2_fpn": {
+        "model_name": "resnet50_v2_fpn",
+        "all_mb": 473.1,
+        "nparams": "43,712,278",
+        "model_size_mb": 166.7,
+        "inference_cost_mb": 306.3
+    },
+    "yolov10s_small": {
+        "model_name": "yolov10s_small",
+        "all_mb": 139.0,
+        "nparams": "8,128,272",
+        "model_size_mb": 31.0,
+        "inference_cost_mb": 108.0
+    },
+    "yolov11n_nano": {
+        "model_name": "yolov11n_nano",
+        "all_mb": 86.0,
+        "nparams": "2,624,080",
+        "model_size_mb": 10.0,
+        "inference_cost_mb": 76.0
+    },
+    "yolov11s_small": {
+        "model_name": "yolov11s_small",
+        "all_mb": 176.1,
+        "nparams": "9,458,752",
+        "model_size_mb": 36.1,
+        "inference_cost_mb": 140.0
+    },
+    "yolov11m_medium": {
+        "model_name": "yolov11m_medium",
+        "all_mb": 344.7,
+        "nparams": "20,114,688",
+        "model_size_mb": 76.7,
+        "inference_cost_mb": 268.0
+    }
+}
