@@ -1,4 +1,6 @@
-# DS-473 Project 👁
+Small course project I did comparing some object detection models.
+
+# CV Project 👁
 Everything was run locally using PyTorch on an RTX 3070. Single image batch size.
 
 ## Pre-trained models
