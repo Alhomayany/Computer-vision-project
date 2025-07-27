@@ -1,4 +1,4 @@
-Small course project I did comparing some object detection models.
+Small course project I did comparing some object detection models. Made a wrapper for torch RCNNs to work with the native Ultralytics eval and ran the tests.
 
 # CV Project 👁
 Everything was run locally using PyTorch on an RTX 3070. Single image batch size.
