@@ -1,4 +1,4 @@
-Small course project I did comparing some object detection models. Made a wrapper for torch RCNNs to work with the native Ultralytics eval and ran the tests.
+Small course project I did comparing some object detection models. Made a wrapper for torch RCNNs to work with the native Ultralytics eval and ran the tests, then added hooks to check VRAM usage graph through inference steps and then reported it.
 
 # CV Project 👁
 Everything was run locally using PyTorch on an RTX 3070. Single image batch size.
